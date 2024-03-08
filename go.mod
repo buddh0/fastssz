@@ -1,4 +1,4 @@
-module github.com/ferranbt/fastssz
+module github.com/buddh0/fastssz
 
 go 1.18
 
